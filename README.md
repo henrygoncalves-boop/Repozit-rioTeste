@@ -1,2 +1,12 @@
-# Repozit-rioTeste
-repozitório para teste de aprendizagem
+# RepozitórioTeste
+
+repozitório para teste e aprendizagem
+
+
+
+teste de comit.
+
+
+
+BEN 10
+
